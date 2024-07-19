@@ -1,2 +1,6 @@
-# This Python script checks your password to see if it has been pwned!
-API used: https://haveibeenpwned.com/
+# Python password checker
+### Usage:
+This script checks if the password entered has been leaked (pwned) or not.
+Only works in the terminal.
+
+API is from: https://haveibeenpwned.com/
